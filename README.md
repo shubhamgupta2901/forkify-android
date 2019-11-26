@@ -1,2 +1,3 @@
-# create-android-app
-Efficient and opinionated android project structure I use as a template to bootstrap my Android Apps. Leverages OkHttp3 + Retrofit + Butterknife + Picasso + Calligraphy.
+# forkify-android
+
+Android app written in Java to explore recipes. Companion app to [forkify-full-stack](https://github.com/shubhamgupta2901/forkify-full-stack) project.
