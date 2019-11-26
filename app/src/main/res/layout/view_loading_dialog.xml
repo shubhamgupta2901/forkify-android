@@ -24,7 +24,7 @@
             android:layout_margin="25dp">
 
 
-            <com.sg.template.ui.views.progressview.ProgressView
+            <com.sg.forkify.ui.views.progressview.ProgressView
                 android:id="@+id/progress_view"
                 style="@style/ProgressView"
                 android:layout_width="wrap_content"
